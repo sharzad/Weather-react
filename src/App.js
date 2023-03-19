@@ -18,7 +18,7 @@ export default function App() {
       <br></br>
       <a
         className="App-link"
-        href="https://reactjs.org"
+        href="https://github.com/sharzad/Weather-react"
         target="_blank"
         rel="noopener noreferrer"
       >
