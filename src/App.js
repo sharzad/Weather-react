@@ -9,7 +9,7 @@ export default function App() {
       <Search />
       <a
         className="App-link"
-        href="https://reactjs.org"
+        href="https://loquacious-yeot-0cdb50.netlify.app/"
         target="_blank"
         rel="noopener noreferrer"
       >
