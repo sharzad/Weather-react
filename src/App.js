@@ -1,12 +1,12 @@
 import "./App.css";
 import React from "react";
 import Search from "./Search";
-
+import Weather from "./Weather";
 export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>WEATHER APP</h1>
+        <Weather />
         <Search />
         <footer>
           This project was created by Shahrzad B. and it is open source {""}
